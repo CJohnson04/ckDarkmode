@@ -116,3 +116,16 @@ g{
 h1{
 		color: #e96bd4 !important;
 }
+
+.KittyOfferModal-title, .NumberInput, .KittyOfferModal-type--bold, .TextLink:not(.TextLink--clean){
+	color: #e96bd4 !important;
+}
+
+.Footer-primary-dapperLabs a{
+	color: #e96bd4 !important;
+}
+
+.PriceTable-row--last {
+	color: #e96bd4 !important;
+	
+}
