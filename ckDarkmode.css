@@ -1,0 +1,118 @@
+body{
+	background-color: #38444d;
+	color: #fff;
+}
+
+.Dropdown-link-label, .Dropdown-content-link, .Header-profile-label{
+	color: #e96bd4;
+}
+.CatalogueChildPage-subtitle{
+	color: #fff;
+}
+
+.ButtonV2, .Button{
+	background: #e7e6e4;
+	color: #29343f;
+	
+}
+.LilBubPage-section-title, .TermsPage-title{
+	color:pink;
+}
+.h1, .h2, .h3, .Select, p strong, .KittyBid-box-subtitle, .Activity-details-date{
+	color: #f5f !important;
+}
+
+.KittiesCategory-title, .KittiesCategory-row-title, .heading--xxs, .KittyHeader-name-text, .AuctionGraph-prices, .AuctionGraph-price-fee{
+	color: #f5f !important;
+}
+
+
+.Banner, .Footer, .ModalV2-content, .ModalV2-content--pad, .ModalV2-header, .Dropdown-content, option {
+	background: #29343f;
+		color: #fff;
+}
+
+.Header-logo-wordmark,.Header-navigation-link-primary, .Hero-h2, .Header-icon,.NetworkStatus-status,.KittyHeader-name-placeholder,.KittyHeader-name-placeholder, .IconV2--display-inlineBlock
+{
+	color: #e96bd4 ;
+}
+
+.KittyCardV2-details-item.KittyCardV2-details-item--highlight, .ProfileHeader-title, a.TabNav-item.TabNav-item--active, .TabNav-Tabs .TabNav-item.TabNav-item--active, .KittyCardV2-details-stats, .KittySelectModal-title {
+	color: #e96bd4 !important;
+}
+
+.KittyHeader-owner-name, .KittyHeader-name, .KittySection-header-title, .Cattribute-title {
+		color: #e96bd4 !important;
+}
+
+.KittyHeader-name-text, .KittyHeader-name-text--editable, .KittyAuction-title, .Tabs-label.is-active{
+		color: #e96bd4 !important;
+}
+
+.Banner-headline, .PurrBadge-count, .KittiesFilter-group-title, .KittyBid-box-title{
+	color: #9c9c9b !important;
+}
+
+g{
+	stroke: #9c9c9b !important;
+}
+
+.AuctionForm-title {
+	color: #fff !important;
+}
+
+.Checkbox-label-text.Checkbox-label-text--right, select.Select, .ToggleButton>button {
+	color: #9c9c9b;
+}
+
+.Pagination-button, .Pagination-page, .Header-navigation-link, .SearchBar-action--active, .SearchBar-action:hover, .ProfileButton:hover {
+		color: #82817d !important;
+}
+
+.ckbox-GeneTable, .ckbox-CardTopContainer, .ckbox-DataLoaderInfo{
+		background: #29343f;
+		border-color: #9c9c9b;
+		color: #fff;
+}
+#ckbox-Toolbar--History:hover{
+	stroke: #9c9c9b !important;
+}
+
+.Footer-primary-az a{
+	color: #e96bd4;
+}
+
+.Footer-nav-link:hover, .Footer-secondary-link:hover, .Header-navigation-link:hover, #ckbox-LabGameButton{
+		color: #e96bd4;
+}
+
+.Header-icon, .Header-icon--more{
+	fill: #e96bd4 ;
+}
+
+.SpecialBadge, .Button {
+	background: #fff;
+}
+
+#input-startPrice, #input-endPrice,  #input-duration, .KittiesFilter-number-input, .Number {
+	color: #fff !important;
+}
+
+.Progress-label--highlight .Progress-label-text {
+		color: #e96bd4 !important;
+}
+
+.Badge, .Badge--lightGrey {
+	color: #333;
+}
+
+.AboutPage-bodyText{
+	color: #fff !important;
+}
+.AboutPage-label, .AboutPage-headline, .AboutPage-signature {
+	color: #e96bd4 !important;
+}
+
+h1{
+		color: #e96bd4 !important;
+}
