@@ -1,7 +1,7 @@
 # ckDarkmode
 Quick darkmode css mod for the CryptoKitties website. The CSS is functional for the current build of CryptoKitties (12/24/18) 
 as a minimalist-design darkmode, and is updated in response to their site changes/as I come across features that need tweaking to be
-viewed with darkmode.
+viewed with darkmode. This CSS also includes adaptations to the appearance of CKBox, a key extension for CryptoKitties gameplay (https://chrome.google.com/webstore/detail/ckbox/jkefllnpggoehndkogpdjndhfidgnchk). 
 
 
 Installation:
