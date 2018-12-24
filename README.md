@@ -4,7 +4,7 @@ as a minimalist-design darkmode, and is updated in response to their site change
 viewed with darkmode. This CSS also includes adaptations to the appearance of *CKBox*, a key extension for CryptoKitties gameplay (https://chrome.google.com/webstore/detail/ckbox/jkefllnpggoehndkogpdjndhfidgnchk). 
 
 
-##Installation:
+## Installation:
 Implemented using the *User JavaScript and CSS* extension for Chrome, code pasted into the righthand 'CSS' side 
 and saved for the CryptoKitties domain.
 
