@@ -1,23 +1,25 @@
-body{
+body {
 	background-color: #38444d;
 	color: #fff;
 }
 
-.Dropdown-link-label, .Dropdown-content-link, .Header-profile-label{
+.Dropdown-link-label, .Dropdown-content-link, .Header-profile-label {
 	color: #e96bd4;
 }
-.CatalogueChildPage-subtitle{
+
+.CatalogueChildPage-subtitle {
 	color: #fff;
 }
 
-.ButtonV2, .Button{
+.ButtonV2, .Button {
 	background: #e7e6e4;
-	color: #29343f;
-	
+	color: #29343f;	
 }
-.LilBubPage-section-title, .TermsPage-title{
+
+.LilBubPage-section-title, .TermsPage-title {
 	color:pink;
 }
+
 .h1, .h2, .h3, .Select, p strong, .KittyBid-box-subtitle, .Activity-details-date{
 	color: #f5f !important;
 }
@@ -26,14 +28,12 @@ body{
 	color: #f5f !important;
 }
 
-
 .Banner, .Footer, .ModalV2-content, .ModalV2-content--pad, .ModalV2-header, .Dropdown-content, option {
 	background: #29343f;
-		color: #fff;
+	color: #fff;
 }
 
-.Header-logo-wordmark,.Header-navigation-link-primary, .Hero-h2, .Header-icon,.NetworkStatus-status,.KittyHeader-name-placeholder,.KittyHeader-name-placeholder, .IconV2--display-inlineBlock
-{
+.Header-logo-wordmark,.Header-navigation-link-primary, .Hero-h2, .Header-icon,.NetworkStatus-status,.KittyHeader-name-placeholder,.KittyHeader-name-placeholder, .IconV2--display-inlineBlock {
 	color: #e96bd4 ;
 }
 
@@ -42,18 +42,18 @@ body{
 }
 
 .KittyHeader-owner-name, .KittyHeader-name, .KittySection-header-title, .Cattribute-title {
-		color: #e96bd4 !important;
+	color: #e96bd4 !important;
 }
 
-.KittyHeader-name-text, .KittyHeader-name-text--editable, .KittyAuction-title, .Tabs-label.is-active{
-		color: #e96bd4 !important;
+.KittyHeader-name-text, .KittyHeader-name-text--editable, .KittyAuction-title, .Tabs-label.is-active {
+	color: #e96bd4 !important;
 }
 
 .Banner-headline, .PurrBadge-count, .KittiesFilter-group-title, .KittyBid-box-title{
 	color: #9c9c9b !important;
 }
 
-g{
+g {
 	stroke: #9c9c9b !important;
 }
 
@@ -66,13 +66,13 @@ g{
 }
 
 .Pagination-button, .Pagination-page, .Header-navigation-link, .SearchBar-action--active, .SearchBar-action:hover, .ProfileButton:hover {
-		color: #82817d !important;
+	color: #82817d !important;
 }
 
-.ckbox-GeneTable, .ckbox-CardTopContainer, .ckbox-DataLoaderInfo{
-		background: #29343f;
-		border-color: #9c9c9b;
-		color: #fff;
+.ckbox-GeneTable, .ckbox-CardTopContainer, .ckbox-DataLoaderInfo {
+	background: #29343f;
+	border-color: #9c9c9b;
+	color: #fff;
 }
 #ckbox-Toolbar--History:hover{
 	stroke: #9c9c9b !important;
@@ -83,7 +83,7 @@ g{
 }
 
 .Footer-nav-link:hover, .Footer-secondary-link:hover, .Header-navigation-link:hover, #ckbox-LabGameButton{
-		color: #e96bd4;
+	color: #e96bd4;
 }
 
 .Header-icon, .Header-icon--more{
@@ -99,29 +99,29 @@ g{
 }
 
 .Progress-label--highlight .Progress-label-text {
-		color: #e96bd4 !important;
+	color: #e96bd4 !important;
 }
 
 .Badge, .Badge--lightGrey {
 	color: #333;
 }
 
-.AboutPage-bodyText{
+.AboutPage-bodyText {
 	color: #fff !important;
 }
 .AboutPage-label, .AboutPage-headline, .AboutPage-signature {
 	color: #e96bd4 !important;
 }
 
-h1{
-		color: #e96bd4 !important;
-}
-
-.KittyOfferModal-title, .NumberInput, .KittyOfferModal-type--bold, .TextLink:not(.TextLink--clean){
+h1 {
 	color: #e96bd4 !important;
 }
 
-.Footer-primary-dapperLabs a{
+.KittyOfferModal-title, .NumberInput, .KittyOfferModal-type--bold, .TextLink:not(.TextLink--clean) {
+	color: #e96bd4 !important;
+}
+
+.Footer-primary-dapperLabs a {
 	color: #e96bd4 !important;
 }
 
