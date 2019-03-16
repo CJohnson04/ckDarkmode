@@ -129,3 +129,19 @@ h1 {
 	color: #e96bd4 !important;
 	
 }
+
+.KittyCard-details-item--highlight, .KittyBio-birthInfo-desc, .KittyBio-birthInfo-title, .KittyBio-birthInfo-desc, .KittySection-header{
+    color: #fff;
+}
+
+.ckbox-GeneTable, .ckbox-CardTopContainer, .ckbox-DataLoaderInfo{
+
+}
+
+tr.ckbox-PRow.ckbox-Active{
+	background: #82817d;
+}
+
+td.ckbox-PureGenes{
+		background: #7b50b7;
+}
